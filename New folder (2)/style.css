@@ -1,0 +1,27 @@
+p{
+    /* text-align: right; */
+     /* text-align: end; */
+     /* text-align: left; */
+     /* text-align: start; */
+     /* text-align: center; */
+}
+h1{
+    text-align: center;
+    text-decoration: underline dotted;
+    text-decoration: ;
+}
+a{
+    text-decoration: none;
+}
+#h1{
+  font-weight: normal;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight: lighter;
+}
